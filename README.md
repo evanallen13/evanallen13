@@ -1,6 +1,6 @@
 ### Evan Allen
 
 
-[![Linkedin](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-[![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/)
+
+<i class="ai ai-arxiv ai-5x"></i>
+<i class="fa fa-medium fa-5x" aria-hidden="true">
