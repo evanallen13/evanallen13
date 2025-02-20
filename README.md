@@ -14,7 +14,7 @@ With a strong background in **DevOps, GitHub, and Cloud Engineering**, I special
 <p align="left">
   <img src="images/az-204.png" alt="AZ-204" height="80">
   <img src="images/dp-900.png" alt="DP-900" height="80">
-  <img src="images/az-900.png" alt="AZ-900" height="80">
+  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" height="80">
   <img src="images/ghas.png" alt="GitHub GHAS" height="80">
   <img src="images/admin.png" alt="GitHub Admin" height="80">
   <img src="images/actions.png" alt="GitHub Actions" height="80">
