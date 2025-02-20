@@ -12,7 +12,7 @@ With a strong background in **DevOps, GitHub, and Cloud Engineering**, I special
 
 ### 🏆 Certifications  
 <p align="left">
-  <img src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="AZ-204" height="80">
+  <img src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="AZ-204" height="100">
   <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/twitter_thumb_201604_azure-data-fundamentals-600x600.png" alt="DP-900" height="80">
   <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" height="80">
   <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" alt="GitHub GHAS" height="80">
