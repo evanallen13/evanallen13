@@ -1,8 +1,17 @@
 # 👋 Hi, I'm Evan Allen  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanallen13)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/evanallen13)
-[![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:/evanallen13@gmail.com)
+<a href="https://www.linkedin.com/in/evanallen13" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
+<a href="https://github.com/evanallen13" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
+
+<a href="mailto:evanallen13@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+
 
 ---
 
