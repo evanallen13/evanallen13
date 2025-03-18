@@ -2,11 +2,11 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanallen13)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/evanallen13)
-[![GitHub](https://img.shields.io/badge/Open%20Source-Org-black?style=flat&logo=github)](https://github.com/MandalAutomations)
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:/evanallen13@gmail.com)
 
 ---
 
+[![GitHub](More Projects)](https://github.com/MandalAutomations)
 ## 🚀 GitHub & DevOps Consultant | GitHub Actions & Advanced Security Expert  
 
 With a strong background in **DevOps, GitHub, and Cloud Engineering**, I specialize in helping organizations **streamline their software development lifecycle** and **migrate to GitHub Enterprise** with ease.
