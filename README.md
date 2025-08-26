@@ -5,14 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:/evanallen13@gmail.com)
 
 ---
-
-[Projects](https://github.com/MandalAutomations)
-## 🚀 Projects  
-
 [![View My Projects](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MandalAutomations)  
-
-This button takes you to my **GitHub organization**, where I keep all of my projects.
-
 
 ## 🚀 GitHub & DevOps Consultant | GitHub Actions & Advanced Security Expert  
 
