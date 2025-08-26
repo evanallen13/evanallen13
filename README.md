@@ -6,7 +6,7 @@
 
 ---
 
-[More Projects](https://github.com/MandalAutomations)
+[Projects](https://github.com/MandalAutomations)
 ## 🚀 GitHub & DevOps Consultant | GitHub Actions & Advanced Security Expert  
 
 With a strong background in **DevOps, GitHub, and Cloud Engineering**, I specialize in helping organizations **streamline their software development lifecycle** and **migrate to GitHub Enterprise** with ease.
