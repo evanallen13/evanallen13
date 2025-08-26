@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:/evanallen13@gmail.com)
 
 ---
-[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MandalAutomations)  
+[![View My Projects Org](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MandalAutomations)  
 
 ## 🚀 GitHub & DevOps Consultant | GitHub Actions & Advanced Security Expert  
 
