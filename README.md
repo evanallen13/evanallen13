@@ -7,6 +7,13 @@
 ---
 
 [Projects](https://github.com/MandalAutomations)
+## 🚀 Projects  
+
+[![View My Projects](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MandalAutomations)  
+
+This button takes you to my **GitHub organization**, where I keep all of my projects.
+
+
 ## 🚀 GitHub & DevOps Consultant | GitHub Actions & Advanced Security Expert  
 
 With a strong background in **DevOps, GitHub, and Cloud Engineering**, I specialize in helping organizations **streamline their software development lifecycle** and **migrate to GitHub Enterprise** with ease.
