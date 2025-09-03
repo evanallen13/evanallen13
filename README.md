@@ -7,7 +7,7 @@
 ---
 [![View My Projects Org](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MandalAutomations)  
 
-## 🚀 GitHub & DevOps Consultant | GitHub Actions & Advanced Security Expert  
+## 🚀 GitHub & DevOps Consultant
 
 With a strong background in **DevOps, GitHub, and Cloud Engineering**, I specialize in helping organizations **streamline their software development lifecycle** and **migrate to GitHub Enterprise** with ease.
 
