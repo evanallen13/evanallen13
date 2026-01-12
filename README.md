@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Evan Allen  
+# Hi, I'm Evan Allen  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/evanallen13)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/evanallen13)
@@ -7,11 +7,11 @@
 [![View My Projects Org](https://img.shields.io/badge/View%20My%20Projects-181717?style=for-the-badge&logo=github&logoColor=white&color=blue)](https://github.com/MandalAutomations)
 [![Blog](https://img.shields.io/badge/Blog-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&color=black)](https://medium.com/@evanallen13)
 
-## 🚀 GitHub & DevOps Consultant
+## GitHub & DevOps Consultant
 
 With a strong background in **DevOps, GitHub, and Cloud Engineering**, I specialize in helping organizations **streamline their software development lifecycle** and **migrate to GitHub Enterprise** with ease.
 
-### 🏆 Certifications  
+### Certifications  
 <p align="left">
   <img src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="AZ-204" height="80">
   <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="AI-900" height="80">
@@ -25,7 +25,7 @@ With a strong background in **DevOps, GitHub, and Cloud Engineering**, I special
 
 ---
 
-## 👨‍🏫 Trainer & Enablement Lead  
+## Trainer & Enablement Lead  
 ✔ Delivered **GitHub training** for **500+ developers & administrators** on:  
    - **GitHub Administration**  
    - **GitHub Actions (Fundamentals & Intermediate)**  
@@ -36,24 +36,14 @@ With a strong background in **DevOps, GitHub, and Cloud Engineering**, I special
 
 ---
 
-## 🔄 Migration & CI/CD Optimization  
+## Migration & CI/CD Optimization  
 ✔ Led the migration of **10,000+ repositories** from **Azure DevOps, GitLab, Bitbucket, and SVN** to GitHub.  
 ✔ Developed & optimized **CI/CD pipelines** using **GitHub Actions & Azure DevOps** to enhance **automation, security, and release cycles**.  
 
 ---
 
-## ☁️ Cloud & DevOps Expertise  
+## Cloud & DevOps Expertise  
 ✔ Managed **Azure environments, Kubernetes clusters, & cloud-native applications**.  
 ✔ Reduced **cloud costs by 15%** through strategic **Azure resource optimization**.  
 
 ---
-
-## 🛠 Tech Stack & Focus Areas  
-🚀 **GitHub Actions, Advanced Security, Codespaces**  
-⚙️ **CI/CD, DevOps, Azure, Kubernetes**  
-💻 **.NET, SQL, JavaScript, TypeScript**  
-☁️ **Cloud Migrations & Automation**  
-
----
-
-💬 Passionate about **helping teams adopt GitHub best practices, secure their code, and build high-performing DevOps workflows**. Let's collaborate! 🚀  
