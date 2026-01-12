@@ -26,24 +26,24 @@ With a strong background in **DevOps, GitHub, and Cloud Engineering**, I special
 ---
 
 ## Trainer & Enablement Lead  
-✔ Delivered **GitHub training** for **500+ developers & administrators** on:  
+Delivered **GitHub training** for **500+ developers & administrators** on:  
    - **GitHub Administration**  
    - **GitHub Actions (Fundamentals & Intermediate)**  
    - **GitHub Advanced Security**  
    - **GitHub Codespaces**  
 
-✔ Designed & implemented **best practices** for **GitHub Enterprise Cloud & EMU adoption**.  
+Designed & implemented **best practices** for **GitHub Enterprise Cloud & EMU adoption**.  
 
 ---
 
 ## Migration & CI/CD Optimization  
-✔ Led the migration of **10,000+ repositories** from **Azure DevOps, GitLab, Bitbucket, and SVN** to GitHub.  
-✔ Developed & optimized **CI/CD pipelines** using **GitHub Actions & Azure DevOps** to enhance **automation, security, and release cycles**.  
+Led the migration of **10,000+ repositories** from **Azure DevOps, GitLab, Bitbucket, and SVN** to GitHub.  
+Developed & optimized **CI/CD pipelines** using **GitHub Actions & Azure DevOps** to enhance **automation, security, and release cycles**.  
 
 ---
 
 ## Cloud & DevOps Expertise  
-✔ Managed **Azure environments, Kubernetes clusters, & cloud-native applications**.  
-✔ Reduced **cloud costs by 15%** through strategic **Azure resource optimization**.  
+Managed **Azure environments, Kubernetes clusters, & cloud-native applications**.  
+Reduced **cloud costs by 15%** through strategic **Azure resource optimization**.  
 
 ---
