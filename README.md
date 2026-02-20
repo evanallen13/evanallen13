@@ -23,8 +23,6 @@ With a strong background in **DevOps, GitHub, and Cloud Engineering**, I special
   <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Admin" height="90">
   <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" height="90">
   <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" height="90">
-</p>
-<p align="left">
   <img src="https://images.credly.com/size/340x340/images/965532be-0de5-469c-b7aa-266440f4b6eb/blob" alt="GitHub Migrations Partner Delivery Credential" height="80">
   <img src="https://images.credly.com/size/340x340/images/2eb00d3c-cc28-4381-b861-c5b9dc2776ea/blob" alt="AzureDevOps to GitHub Migrations Delivery Credential" height="80"style="padding-left:10px">
   <img src="https://images.credly.com/size/340x340/images/393e34aa-0d1f-4d42-bc91-d22b418dddf7/blob" alt="FY26 GitHub Copilot Sales Badge" height="80" style="padding-left:10px">
