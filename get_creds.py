@@ -43,13 +43,14 @@ def change_image_size(image_path, size=(256, 256)):
         img = img.resize(size)
         img.save(image_path)
         
-        
-def set_creds():
+def set_creds(size=(90,90)):
+    """Update README.md with badge images."""
     imgs = ""
     badges = sorted(os.listdir("badges"))
     for badge in badges:
-        print(f"Processing badge image {badge}")
-        img = f"    <img src='badges/{badge}' alt='{badge}' height='90'>"
+        image_path = f"badges/{badge}"
+        change_image_size(image_path, size)
+        img = f"    <img src='badges/{badge}' alt='{badge}'>"
         imgs += img + "\n"
 
     div = f"""
@@ -69,14 +70,15 @@ def set_creds():
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(updated_readme)
         
-username="evan_allen"
-badges=fetch_org_badges(username)
-print(badges[0])
-os.makedirs("badges", exist_ok=True)
-for badge in badges:
-    image_path = download_badge_image(badge)
-    if image_path:
-        print(f"Downloaded badge image to {image_path}")
-        change_image_size(image_path)
-        
-set_creds()
+def get_creds(username, size):
+    """Fetch badges, download images, and resize them."""
+    os.makedirs("badges", exist_ok=True)
+    badges = fetch_org_badges(username)
+    for badge in badges:
+        download_badge_image(badge)
+
+if __name__ == "__main__":      
+    username="evan_allen"
+    size=100
+    get_creds(username, (size, size))
+    set_creds()
