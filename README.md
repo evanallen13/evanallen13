@@ -12,23 +12,25 @@
 With a strong background in **DevOps, GitHub, and Cloud Engineering**, I specialize in helping organizations **streamline their software development lifecycle** and **migrate to GitHub Enterprise** with ease.
 
 ### Certifications  
-<div align="left">
-  <img src="https://images.credly.com/images/63316b60-f62d-4e51-aacc-c23cb850089c/azure-developer-associate-600x600.png" alt="AZ-204" height="90">
-  <img src="https://images.credly.com/size/340x340/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" alt="AI-900" height="90">
-  <img src="https://images.credly.com/images/70eb1e3f-d4de-4377-a062-b20fb29594ea/twitter_thumb_201604_azure-data-fundamentals-600x600.png" alt="DP-900" height="90">
-  <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" alt="AZ-900" height="90">
-</div>
-<div align="left">
-  <img src="https://images.credly.com/size/340x340/images/c9ed294b-f8ac-48fa-a8c3-96dab1f110f2/image.png" alt="GitHub GHAS" height="90">
-  <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Admin" height="90">
-  <img src="https://images.credly.com/images/89efc3e7-842b-4790-b09b-9ea5efc71ec3/image.png" alt="GitHub Actions" height="90">
-  <img src="https://images.credly.com/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations" height="90">
-  <img src="https://images.credly.com/size/340x340/images/965532be-0de5-469c-b7aa-266440f4b6eb/blob" alt="GitHub Migrations Partner Delivery Credential" height="83">
-  <img src="https://images.credly.com/size/340x340/images/2eb00d3c-cc28-4381-b861-c5b9dc2776ea/blob" alt="AzureDevOps to GitHub Migrations Delivery Credential" height="83"style="padding-left:10px">
-  <img src="https://images.credly.com/size/340x340/images/393e34aa-0d1f-4d42-bc91-d22b418dddf7/blob" alt="FY26 GitHub Copilot Sales Badge" height="83" style="padding-left:10px">
-  <img src="https://images.credly.com/size/340x340/images/29709000-5ca7-41f6-b18c-1aa7786d1c75/blob" alt="FY26 GitHub Platform Sales Badge" height="83"style="padding-left:10px">
-</div>
 
+<div id="certifications" align="left">
+    <img src='badges/github_azuredevops_to_github_migrations_partner_delivery_credential.png' alt='github_azuredevops_to_github_migrations_partner_delivery_credential.png' height='90'>
+    <img src='badges/github_fy26_github_advanced_security_partner_sales_credential.png' alt='github_fy26_github_advanced_security_partner_sales_credential.png' height='90'>
+    <img src='badges/github_fy26_github_copilot_partner_sales_credential.png' alt='github_fy26_github_copilot_partner_sales_credential.png' height='90'>
+    <img src='badges/github_fy26_github_partner_sales_professional.png' alt='github_fy26_github_partner_sales_professional.png' height='90'>
+    <img src='badges/github_fy26_github_platform_partner_sales_credential.png' alt='github_fy26_github_platform_partner_sales_credential.png' height='90'>
+    <img src='badges/github_fy26_github_revenue_motions_partner_sales_credential.png' alt='github_fy26_github_revenue_motions_partner_sales_credential.png' height='90'>
+    <img src='badges/github_github_actions.png' alt='github_github_actions.png' height='90'>
+    <img src='badges/github_github_administration.png' alt='github_github_administration.png' height='90'>
+    <img src='badges/github_github_advanced_security.png' alt='github_github_advanced_security.png' height='90'>
+    <img src='badges/github_github_advanced_security_partner_delivery_credential.png' alt='github_github_advanced_security_partner_delivery_credential.png' height='90'>
+    <img src='badges/github_github_copilot_core_skills_&_application_partner_delivery_credential.png' alt='github_github_copilot_core_skills_&_application_partner_delivery_credential.png' height='90'>
+    <img src='badges/github_github_foundations.png' alt='github_github_foundations.png' height='90'>
+    <img src='badges/github_github_migrations_partner_delivery_credential.png' alt='github_github_migrations_partner_delivery_credential.png' height='90'>
+    <img src='badges/github_github_partner_technical_sales_professional_credential.png' alt='github_github_partner_technical_sales_professional_credential.png' height='90'>
+    <img src='badges/microsoft_microsoft_certified_azure_data_fundamentals.png' alt='microsoft_microsoft_certified_azure_data_fundamentals.png' height='90'>
+    <img src='badges/microsoft_microsoft_certified_azure_fundamentals.png' alt='microsoft_microsoft_certified_azure_fundamentals.png' height='90'>
+</div>
 
 ---
 
