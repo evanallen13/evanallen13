@@ -21,7 +21,6 @@ My focus areas include:
 - Azure DevOps, GitLab, Bitbucket, and SVN migrations
 - Platform engineering, governance, and repository standards
 - Copilot adoption and AI-assisted developer workflows
-- Cloud infrastructure, Azure, Kubernetes, and automation
 
 ---
 
