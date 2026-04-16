@@ -68,6 +68,7 @@ My focus areas include:
 - Help teams adopt GitHub Copilot effectively and responsibly
 - Build local AI-assisted tooling for software modernization and migration scenarios
 - Explore local Meta Llama workflows that convert GitLab CI pipelines into GitHub Actions workflows while keeping all data on-device
+- Architect and develop MCP (Model Context Protocol) servers that automate complex GitHub administration tasks, enabling teams to streamline org-level operations, enforce governance policies, and manage repositories at scale through intelligent, AI-driven workflows
 
 ### GitHub Advanced Security & DevSecOps
 - Deliver GitHub Advanced Security enablement and training
