@@ -27,6 +27,7 @@ My focus areas include:
 ### Certifications  
 
 <div id="certifications" align="left">
+    <img src='badges/anthropic_claude_101.png' alt='anthropic_claude_101.png'>
     <img src='badges/github_azuredevops_to_github_migrations_delivery_credential.png' alt='github_azuredevops_to_github_migrations_delivery_credential.png'>
     <img src='badges/github_azuredevops_to_github_migrations_partner_delivery_credential.png' alt='github_azuredevops_to_github_migrations_partner_delivery_credential.png'>
     <img src='badges/github_fy26_github_advanced_security_partner_sales_credential.png' alt='github_fy26_github_advanced_security_partner_sales_credential.png'>
