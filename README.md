@@ -27,7 +27,6 @@ My focus areas include:
 ### Certifications  
 
 <div id="certifications" align="left">
-    <img src='badges/anthropic_claude_101.png' alt='anthropic_claude_101.png' height='90'>
     <img src='badges/github_azuredevops_to_github_migrations_delivery_credential.png' alt='github_azuredevops_to_github_migrations_delivery_credential.png'>
     <img src='badges/github_azuredevops_to_github_migrations_partner_delivery_credential.png' alt='github_azuredevops_to_github_migrations_partner_delivery_credential.png'>
     <img src='badges/github_fy26_github_advanced_security_partner_sales_credential.png' alt='github_fy26_github_advanced_security_partner_sales_credential.png'>
@@ -49,6 +48,7 @@ My focus areas include:
     <img src='badges/microsoft_microsoft_certified_azure_data_fundamentals.png' alt='microsoft_microsoft_certified_azure_data_fundamentals.png'>
     <img src='badges/microsoft_microsoft_certified_azure_developer.png' alt='microsoft_microsoft_certified_azure_developer.png'>
     <img src='badges/microsoft_microsoft_certified_azure_fundamentals.png' alt='microsoft_microsoft_certified_azure_fundamentals.png'>
+    <img src='badges/anthropic_claude_101.png' alt='anthropic_claude_101.png' height='90'>
 </div>
 
 ---
