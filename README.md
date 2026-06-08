@@ -41,6 +41,7 @@ My focus areas include:
     <img src='badges/github_github_advanced_security_partner_delivery_credential.png' alt='github_github_advanced_security_partner_delivery_credential.png'>
     <img src='badges/github_github_copilot_core_skills_&_application_delivery_credential.png' alt='github_github_copilot_core_skills_&_application_delivery_credential.png'>
     <img src='badges/github_github_copilot_core_skills_&_application_partner_delivery_credential.png' alt='github_github_copilot_core_skills_&_application_partner_delivery_credential.png'>
+    <img src='badges/github_github_copilot_deploying_and_scaling_ai_in_the_enterprise_delivery_credential.png' alt='github_github_copilot_deploying_and_scaling_ai_in_the_enterprise_delivery_credential.png'>
     <img src='badges/github_github_foundations.png' alt='github_github_foundations.png'>
     <img src='badges/github_github_migrations_delivery_credential.png' alt='github_github_migrations_delivery_credential.png'>
     <img src='badges/github_github_migrations_partner_delivery_credential.png' alt='github_github_migrations_partner_delivery_credential.png'>
