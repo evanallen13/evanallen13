@@ -39,13 +39,17 @@ My focus areas include:
     <img src='badges/github_github_advanced_security.png' alt='github_github_advanced_security.png'>
     <img src='badges/github_github_advanced_security_delivery_credential.png' alt='github_github_advanced_security_delivery_credential.png'>
     <img src='badges/github_github_advanced_security_partner_delivery_credential.png' alt='github_github_advanced_security_partner_delivery_credential.png'>
+    <img src='badges/github_github_advanced_security_sales_credential.png' alt='github_github_advanced_security_sales_credential.png'>
     <img src='badges/github_github_copilot_core_skills_&_application_delivery_credential.png' alt='github_github_copilot_core_skills_&_application_delivery_credential.png'>
     <img src='badges/github_github_copilot_core_skills_&_application_partner_delivery_credential.png' alt='github_github_copilot_core_skills_&_application_partner_delivery_credential.png'>
     <img src='badges/github_github_copilot_deploying_and_scaling_ai_in_the_enterprise_delivery_credential.png' alt='github_github_copilot_deploying_and_scaling_ai_in_the_enterprise_delivery_credential.png'>
+    <img src='badges/github_github_copilot_sales_credential.png' alt='github_github_copilot_sales_credential.png'>
     <img src='badges/github_github_foundations.png' alt='github_github_foundations.png'>
     <img src='badges/github_github_migrations_delivery_credential.png' alt='github_github_migrations_delivery_credential.png'>
     <img src='badges/github_github_migrations_partner_delivery_credential.png' alt='github_github_migrations_partner_delivery_credential.png'>
     <img src='badges/github_github_partner_technical_sales_professional_credential.png' alt='github_github_partner_technical_sales_professional_credential.png'>
+    <img src='badges/github_github_platform_sales_credential.png' alt='github_github_platform_sales_credential.png'>
+    <img src='badges/github_github_revenue_motions_sales_credential.png' alt='github_github_revenue_motions_sales_credential.png'>
     <img src='badges/microsoft_microsoft_certified_azure_data_fundamentals.png' alt='microsoft_microsoft_certified_azure_data_fundamentals.png'>
     <img src='badges/microsoft_microsoft_certified_azure_developer.png' alt='microsoft_microsoft_certified_azure_developer.png'>
     <img src='badges/microsoft_microsoft_certified_azure_fundamentals.png' alt='microsoft_microsoft_certified_azure_fundamentals.png'>
