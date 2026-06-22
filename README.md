@@ -50,6 +50,7 @@ My focus areas include:
     <img src='badges/github_github_partner_technical_sales_professional_credential.png' alt='github_github_partner_technical_sales_professional_credential.png'>
     <img src='badges/github_github_platform_sales_credential.png' alt='github_github_platform_sales_credential.png'>
     <img src='badges/github_github_revenue_motions_sales_credential.png' alt='github_github_revenue_motions_sales_credential.png'>
+    <img src='badges/github_github_technical_sales_professional_credential.png' alt='github_github_technical_sales_professional_credential.png'>
     <img src='badges/microsoft_microsoft_certified_azure_data_fundamentals.png' alt='microsoft_microsoft_certified_azure_data_fundamentals.png'>
     <img src='badges/microsoft_microsoft_certified_azure_developer.png' alt='microsoft_microsoft_certified_azure_developer.png'>
     <img src='badges/microsoft_microsoft_certified_azure_fundamentals.png' alt='microsoft_microsoft_certified_azure_fundamentals.png'>
